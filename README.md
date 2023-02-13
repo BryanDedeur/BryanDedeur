@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryandedeur)](https://github.com/bryandedeur/github-readme-stats)
 
 <!--
 **BryanDedeur/BryanDedeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
